@@ -2,23 +2,13 @@
 
 Welcome to the Azure Spatial Anchors samples repository on GitHub. Azure Spatial Anchors is a managed cloud service and platform that enables multi-user, spatially aware mixed reality and augmented reality (MR/AR) apps for HoloLens, iOS devices with ARKit, and Android devices with ARCore. For more information, see [Azure Spatial Anchors documentation](https://docs.microsoft.com/azure/spatial-anchors/overview "Azure Spatial Anchors Documentation")
 
+This fork just fix some things and updated to last LTS of Unity 2019.4 and AR Foundation 4.0
+
+Only tested in: **ANDROID**
+
 ## Create your first app
 
-[Android Java](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-android "Android Quickstart")
-
-[HoloLens C++](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-hololens "HoloLens C++ Quickstart")
-
-[iOS Swift/Objective-C](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-ios "iOS Quickstart")
-
 [Unity on Android](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-android "Unity Android Quickstart")
-
-[Unity on HoloLens](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-hololens "Unity HoloLens Quickstart")
-
-[Unity on iOS](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-unity-ios "Unity iOS Quickstart")
-
-[Xamarin on Android](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-xamarin-android "Xamarin Android Quickstart")
-
-[Xamarin on iOS](https://docs.microsoft.com/azure/spatial-anchors/quickstarts/get-started-xamarin-ios "Xamarin iOS Quickstart")
 
 ## Enable sharing in MR/AR across sessions and devices
 
